@@ -2,6 +2,20 @@
 
 React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerce-backend-1suo.onrender.com).
 
+## Screenshots
+
+| Home | Product Detail |
+|------|---------------|
+| ![Home](public/screenshots/home.jpeg) | ![Product Detail](public/screenshots/product-detail.jpeg) |
+
+| Cart | Orders |
+|------|--------|
+| ![Cart](public/screenshots/cart.jpeg) | ![Orders](public/screenshots/orders.jpeg) |
+
+| Login | Mobile |
+|-------|--------|
+| ![Login](public/screenshots/login.jpeg) | ![Mobile](public/screenshots/home-mobile.jpeg) |
+
 ## Features
 
 - Product browsing with search and category filter
