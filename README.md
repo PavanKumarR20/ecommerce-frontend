@@ -8,17 +8,13 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
 |------|---------------|
 | ![Home](public/screenshots/home.jpeg) | ![Product Detail](public/screenshots/product-detail.jpeg) |
 
-| Cart | Login |
-|------|-------|
-| ![Cart](public/screenshots/cart.png) | ![Login](public/screenshots/login.jpeg) |
+| Cart | Orders |
+|------|--------|
+| ![Cart](public/screenshots/cart.png) | ![Orders](public/screenshots/orders.png) |
 
-| Mobile |
-|--------|
-| ![Mobile](public/screenshots/home-mobile.jpeg) |
-
-**Orders**
-
-![Orders](public/screenshots/orders.jpeg)
+| Login | Mobile |
+|-------|--------|
+| ![Login](public/screenshots/login.jpeg) | ![Mobile](public/screenshots/home-mobile.jpeg) |
 
 ## Features
 
