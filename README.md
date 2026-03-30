@@ -19,14 +19,14 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
   </tr>
   <tr>
     <td><img src="public/screenshots/cart.png" width="480"/></td>
-    <td><img src="public/screenshots/orders.jpeg" width="480"/></td>
+    <td><img src="public/screenshots/orders.png" width="480"/></td>
   </tr>
   <tr>
     <td align="center"><b>Login</b></td>
     <td align="center"><b>Mobile</b></td>
   </tr>
   <tr>
-    <td><img src="public/screenshots/login.jpeg" width="480"/></td>
+    <td><img src="public/screenshots/login.png" width="480"/></td>
     <td><img src="public/screenshots/home-mobile.jpeg" width="480"/></td>
   </tr>
 </table>
