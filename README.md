@@ -13,9 +13,9 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
     <td align="center"><b>Cart</b></td>
   </tr>
   <tr>
-    <td><img src="public/screenshots/home.jpeg" width="300"/></td>
-    <td><img src="public/screenshots/product-detail.jpeg" width="300"/></td>
-    <td><img src="public/screenshots/cart.png" width="300"/></td>
+    <td><img src="public/screenshots/home.jpeg" width="420"/></td>
+    <td><img src="public/screenshots/product-detail.jpeg" width="420"/></td>
+    <td><img src="public/screenshots/cart.png" width="420"/></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
     <td align="center"><b>Home</b></td>
   </tr>
   <tr>
-    <td><img src="public/screenshots/orders.jpeg" width="200"/></td>
+    <td><img src="public/screenshots/orders.png" width="200"/></td>
     <td><img src="public/screenshots/login.png" width="200"/></td>
     <td><img src="public/screenshots/home-mobile.jpeg" width="200"/></td>
   </tr>
