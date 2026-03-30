@@ -10,7 +10,7 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
 
 | Cart | Orders |
 |------|--------|
-| ![Cart](public/screenshots/cart.jpeg) | ![Orders](public/screenshots/orders.jpeg) |
+| ![Cart](public/screenshots/cart.png) | ![Orders](public/screenshots/orders.jpeg) |
 
 | Login | Mobile |
 |-------|--------|
