@@ -4,30 +4,33 @@ React + Vite + TypeScript SPA consuming the [ecommerce backend](https://ecommerc
 
 ## Screenshots
 
+**Desktop**
+
 <table>
   <tr>
     <td align="center"><b>Home</b></td>
     <td align="center"><b>Product Detail</b></td>
-  </tr>
-  <tr>
-    <td><img src="public/screenshots/home.jpeg" width="480"/></td>
-    <td><img src="public/screenshots/product-detail.jpeg" width="480"/></td>
-  </tr>
-  <tr>
     <td align="center"><b>Cart</b></td>
+  </tr>
+  <tr>
+    <td><img src="public/screenshots/home.jpeg" width="300"/></td>
+    <td><img src="public/screenshots/product-detail.jpeg" width="300"/></td>
+    <td><img src="public/screenshots/cart.png" width="300"/></td>
+  </tr>
+</table>
+
+**Mobile**
+
+<table>
+  <tr>
     <td align="center"><b>Orders</b></td>
-  </tr>
-  <tr>
-    <td><img src="public/screenshots/cart.png" width="480"/></td>
-    <td><img src="public/screenshots/orders.png" width="480"/></td>
-  </tr>
-  <tr>
     <td align="center"><b>Login</b></td>
-    <td align="center"><b>Mobile</b></td>
+    <td align="center"><b>Home</b></td>
   </tr>
   <tr>
-    <td><img src="public/screenshots/login.png" width="480"/></td>
-    <td><img src="public/screenshots/home-mobile.jpeg" width="480"/></td>
+    <td><img src="public/screenshots/orders.jpeg" width="200"/></td>
+    <td><img src="public/screenshots/login.png" width="200"/></td>
+    <td><img src="public/screenshots/home-mobile.jpeg" width="200"/></td>
   </tr>
 </table>
 
